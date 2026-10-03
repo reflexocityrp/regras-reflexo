@@ -1,12 +1,8 @@
----
-icon: masks-theater
----
-
-# Regras Básicas e Conduta
+# Regras Básicas e Conduta no RP
 
 As regras abaixo são de cumprimento obrigatório para todos os jogadores da **Reflexo RP**.
 
-***
+---
 
 ## Diretrizes Gerais do Servidor
 

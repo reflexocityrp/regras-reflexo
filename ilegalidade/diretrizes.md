@@ -1,7 +1,3 @@
----
-icon: scale-balanced
----
-
 # Diretrizes Gerais da Ilegalidade
 
 1. **Cumprimento de Regras Internas**: Cada facção / organização possui suas próprias regras internas e hierarquia, devendo também respeitar integralmente todas as regras gerais da cidade.

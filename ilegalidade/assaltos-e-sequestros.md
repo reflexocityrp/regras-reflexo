@@ -1,30 +1,30 @@
+# Assaltos, Sequestros, Cativeiro e Limites de Resgate
+
 ---
-icon: user-group
+
+## 1. Assalto a Trabalhadores Legais e Civis
+
+- **Trabalhadores em Serviço Protegidos**: É proibido assaltar cidadãos exercendo empregos legais (Caminhoneiros, Lixeiros, Taxistas, Mecânicos em atendimento) ou dentro de Safe Zones.
+- **Contingente Policial Mínimo**: Mínimo de **3 Policiais em patrulha** para realizar assaltos de rua.
+- **Itens Protegidos contra Roubo**: Proibido roubar itens VIP/Doador, veículos doadores, ferramentas de trabalho legal ou documentos pessoais (RG/CNH).
+
 ---
 
-# Assaltos, Sequestros e Reféns
+## 2. Sequestros e Cativeiro
 
-***
+| Tipo de Vítima | N° Mínimo Policiais | Tempo Máx. Cativeiro | Resgate Máximo Permitido |
+| :--- | :--- | :--- | :--- |
+| **Civil Comum** | 4 Policiais | 45 Minutos | R\$ 50.000 |
+| **Membro de Facção Rival** | 2 Policiais | 60 Minutos | N/A (Confronto Ilegal) |
+| **Policial / Autoridade** | 6 Policiais | 45 Minutos | R\$ 100.000 ou Troca de Reféns |
 
-## Assalto a Trabalhadores Legais e Civis
+---
 
-1. **Trabalhadores Legais Protegidos**: É proibido assaltar trabalhadores em serviço (ex: Caminhoneiro, Lixeiro, Taxi, Mecânico em serviço) ou em áreas de Safe Zone.
-2. **Requisito Policial**: Mínimo de 3 Policiais em patrulha na cidade para realizar assaltos de rua.
-3. **Itens Protegidos**: Proibido roubar itens VIP/Doador, ferramentas de trabalho legal ou documentos pessoais (RG/CNH).
+## 3. Validação de Reféns
 
-***
-
-## Sequestros e Reféns
-
-1. **Sequestro de Civis**: Mínimo de 4 Policiais On-line. Tempo máximo de cativeiro: 45 minutos. Resgate Máximo: R$ 50.000.
-2. **Sequestro de Policiais / Autoridades**: Mínimo de 6 Policiais On-line. Tempo máximo de cativeiro: 45 minutos. Resgate Máximo: R$ 100.000 ou troca de reféns.
-3. **Refém Falso Proibido**: É estritamente proibido utilizar reféns falsos (amigos, membros da mesma facção ou pessoas pagas para simular o sequestro).
-4. **Proteção a Paramédicos**: Proibido sequestrar paramédicos uniformizados ou em serviço.
-
-***
-
-## Proibição de Resgate em Zonas Protegidas
+- **Refém Falso Proibido**: É estritamente proibido utilizar amigos, membros da mesma facção ou pessoas pagas para simular um sequestro ("refém fake").
+- **Proteção a Socorristas**: Proibido sequestrar paramédicos uniformizados ou em serviço.
 
 {% hint style="danger" %}
-É **estritamente proibido** realizar resgate de qualquer pessoa dentro do Hospital, Prédio dos Bombeiros ou Departamentos de Polícia / Delegacias.
+**Proibição de Resgate em Zonas Protegidas**: É estritamente proibido realizar resgate de reféns ou presos dentro do Hospital, Prédio dos Bombeiros ou Departamentos de Polícia / Delegacias.
 {% endhint %}

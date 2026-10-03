@@ -1,10 +1,10 @@
-# Paramédicos e Atendimento Médico
+# Paramédicos, Atendimento Médico e Amnésia
 
 ---
 
 ## 1. Imparcialidade de Socorro
 
-- Os profissionais da medicina devem prestar atendimento a todos os cidadãos de forma imparcial, respeitando a ordem de gravidade e ordem de chegada dos chamados.
+- Os profissionais de saúde devem prestar atendimento a todos os cidadãos de forma imparcial, respeitando a ordem de gravidade e ordem de chegada dos chamados.
 
 ---
 

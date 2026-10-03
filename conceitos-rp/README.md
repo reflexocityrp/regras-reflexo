@@ -1,12 +1,10 @@
----
-icon: brain
----
+# 🧠 Conceitos Gerais do RP
 
-# Conceitos Gerais do RP
+Nesta seção você encontrará as diretrizes de imersão, conduta e definições de infrações da **Reflexo RP**.
 
-Nesta seção você encontrará as diretrizes fundamentais que regem a conduta de todos os cidadãos da **Reflexo RP**.
-
-* [Regras Básicas e Conduta](regras-basicas.md)
-* [Amor à Vida e Rendição](amor-a-vida.md)
-* [Safe Zones e Mapeamento de Zonas](safe-zones.md)
-* [Infrações Gravíssimas (RDM, VDM, CL, Meta, Power)](infracoes-graves.md)
+- [🎭 Diretrizes Gerais de Imersão (Cop Bait, Forçar RP, Soundpad)](diretrizes-gerais.md)
+- [❤️ Amor à Vida e Rendição](amor-a-vida.md)
+- [🛡️ Safe Zones, Yellow Zones e Red Zones](safe-zones.md)
+- [⚠️ Infrações Frequentes (RDM, VDM, Flaming, Car Parking, CL, Meta, Power, Revenge Kill)](infracoes-graves.md)
+- [☣️ Fraudes e Exploits (Caixa 2, Bug Abuse, Scam / Golpes)](fraudes-e-exploits.md)
+- [🛑 Dark RP e Regulamento de RP de Gravidez](dark-rp-e-gravidez.md)

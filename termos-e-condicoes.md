@@ -1,12 +1,8 @@
----
-icon: memo
----
-
 # Termos e Condições
 
 Assim como em outros jogos público-privados, a **Reflexo RP** possui Termos e Condições aceitos automaticamente ao ingressar no servidor. Ao conectar-se, o jogador assume a responsabilidade de estar ciente das regras e deste documento, que estabelece os parâmetros para a convivência e funcionamento da comunidade.
 
-***
+---
 
 ## 1 - Acesso ao Jogo
 
@@ -14,7 +10,7 @@ Assim como em outros jogos público-privados, a **Reflexo RP** possui Termos e C
 
 1.2 - A conexão ocorre via plataforma **FiveM**. Ao ingressar, o jogador aceita automaticamente os termos do FiveM. Não nos responsabilizamos por erros ou divergências diretamente relacionados à plataforma.
 
-***
+---
 
 ## 2 - Uso do Servidor
 
@@ -26,7 +22,7 @@ Assim como em outros jogos público-privados, a **Reflexo RP** possui Termos e C
 
 2.4 - O uso de ferramentas de monitoramento para garantir a segurança e integridade do servidor é aceito automaticamente ao jogar.
 
-***
+---
 
 ## 3 - Whitelist e Identidade
 
@@ -36,7 +32,7 @@ Assim como em outros jogos público-privados, a **Reflexo RP** possui Termos e C
 
 3.3 - O nome do personagem deve ser realista. Nomes ofensivos ou de celebridades serão alterados forçadamente com punição.
 
-***
+---
 
 ## 4 - Advertências e Banimentos
 
@@ -46,7 +42,7 @@ Assim como em outros jogos público-privados, a **Reflexo RP** possui Termos e C
 
 4.3 - Apelações de banimento devem ser realizadas exclusivamente através dos canais oficiais de ticket no Discord.
 
-***
+---
 
 ## 5 - Reembolsos e Doações
 
@@ -56,7 +52,7 @@ Assim como em outros jogos público-privados, a **Reflexo RP** possui Termos e C
 
 5.3 - Não realizamos reembolso de valores doados após a entrega dos benefícios in-game.
 
-***
+---
 
 ## 6 - Itens do Jogo e Wipe
 

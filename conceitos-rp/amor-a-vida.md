@@ -1,12 +1,8 @@
----
-icon: heart
----
-
 # Amor à Vida e Rendição
 
 O conceito de **Amor à Vida** exige que todo personagem priorize sua integridade física e sobrevivência acima de bens materiais, veículos, dinheiro ou orgulho no RP.
 
-***
+---
 
 ## Regras de Rendição
 

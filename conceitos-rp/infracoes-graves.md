@@ -1,39 +1,36 @@
+# ⚠️ Infrações Gravíssimas
+
+Definição clara das condutas antijogo proibidíssimas na **Reflexo RP**.
+
 ---
-icon: triangle-exclamation
----
-
-# Infrações Gravíssimas (RDM, VDM, CL, Meta, Power)
-
-Definição dos conceitos de infração grave no ambiente de Roleplay da **Reflexo RP**.
-
-***
 
 ## 1. RDM (Random Deathmatch)
-
-Atacar, agredir ou matar outro jogador sem motivo narrativo válido, sem diálogo prévio ou sem voz de rendição/assalto.
+Atacar, agredir fisicamente ou matar outro jogador sem qualquer diálogo prévio, motivação de RP fundamentada ou voz clara de rendição.
 
 ## 2. VDM (Vehicle Deathmatch)
+Utilizar qualquer veículo (carro, moto, caminhão, helicóptero) como arma para atropelar, empurrar ou matar intencionalmente outros jogadores sem justificativa narrativa.
 
-Utilizar veículos (carros, motos, caminhões) como arma para atropelar ou matar intencionalmente jogadores ou policiais sem justificativa narrativa.
+## 3. Car Parking (Deixar Veículo em Cima do Player)
+Estacionar ou deixar o veículo paralisado propositalmente sobre o corpo de um jogador desmaiado ou rendido para impedir sua movimentação ou causar morte por dano contínuo.
 
-## 3. MetaGaming & Stream Sniping
+## 4. Flaming (Xingamentos e Deboche a Desmaiados)
+Xingar, ofender a vida pessoal OOC, fazer danças debochadas ou utilizar emotes provocativos sobre o corpo de um jogador desacordado/morto no chão.
 
-Trazer informações de fora do jogo (Discord, Lives, Twitch) para beneficiar seu personagem dentro do jogo.
+## 5. Combat Logging (CL - Deslogar em Ação)
+Desconectar-se do servidor (deslogar, fechar o FiveM, puxar a internet) durante uma perseguição, tiroteio, assalto, sequestro ou prisão.
+- **Queda por Crash**: O jogador tem até **10 minutos** para notificar a Staff/envolvidos no Discord e retornar à mesma posição.
 
-* **Stream Sniping**: Assistir à transmissão de outro jogador para obter localização ou estratégias in-game.
+## 6. MetaGaming & Stream Sniping
+Utilizar informações externas ao jogo (Discord, transmissões da Twitch/YouTube, redes sociais) para se beneficiar no jogo (IC).
+- **Stream Sniping**: Assistir à live de um jogador para descobrir localização ou estratégias e ir ao local no jogo.
 
-## 4. PowerGaming
+## 7. PowerGaming
+Realizar ações impossíveis na vida real ou forçar situações sem permitir qualquer defesa do outro jogador.
+- Exemplo: Dirigir carros esportivos caindo de ribanceiras sem simular ferimentos/capotamento; usar rádio desacordado.
 
-Realizar ações impossíveis na vida real ou forçar situações no jogo sem dar qualquer margem de reação/defesa à outra parte.
+## 8. Revenge Kill (Vingança Pós-Morte)
+Matar ou ir em busca de vingança contra a pessoa que causou seu desmaio/morte na mesma ação após ter sido reanimado no hospital ou finalizado. Ao ser socorrido no hospital, você perde a memória dos últimos 15 minutos e não pode retornar ao confronto.
 
-* Exemplo: Saltar rampas íngremes com carros esportivos sem simular capotamento/ferimentos; falar ou usar rádio enquanto desacordado.
-
-## 5. Combat Logging (CL)
-
-Desconectar-se do jogo (fechar o jogo, deslogar ou desligar a conexão) durante uma ação, fuga, assalto ou abordagem policial.
-
-* **Queda de Conexão / Crash**: Em caso de queda genuína, o jogador deve reportar no Discord em até **10 minutos** para retornar à ação.
-
-## 6. Dark RP
-
-Política de **Tolerância Zero** para assédio sexual, apologia ao abuso, preconceito de qualquer natureza (racismo, homofobia, transfobia, capacitismo, intolerância religiosa) e torturas extremas. Punição: **Banimento Permanente sem direito a apelação**.
+{% hint style="danger" %}
+A prática comprovada destas infrações sujeita o infrator às punições administrativas da tabela oficial (Advertências, Banimentos e Blacklist).
+{% endhint %}

@@ -1,18 +1,13 @@
----
-icon: person-rifle
----
+# Operações de R.O e Pacificações de Favelas (24h)
 
-# Operações de R.O e Pacificações de Favelas
-
-***
+---
 
 ## 1. Operação Resgate / Retomada (R.O)
+- **Protocolo Policial**: A realização de R.O sem seguir rigorosamente o protocolo operacional será considerada ação abusiva e resultará em punições administrativas aos envolvidos.
 
-* **Protocolo Policial**: A realização de R.O sem seguir rigorosamente o protocolo operacional será considerada ação abusiva e resultará em punições administrativas aos envolvidos.
+---
 
-***
-
-## 2. Protocolo de Pacificação de Favelas e Comunidades
+## 2. Protocolo Completo de Pacificação de Favelas
 
 1. **Autorização Legal**: Pacificações só são permitidas com autorização oficial da Prefeitura e do Corpo Jurídico da cidade, mediante inquérito policial instruído e mandados judiciais expedidos.
 2. **Justificativa por RP Prévio**: Para que haja qualquer ação de pacificação ou retomada envolvendo favelas, facções ou territórios ocupados por organizações criminosas, é **obrigatório um RP prévio detalhado que justifique a ação**.
@@ -23,7 +18,7 @@ icon: person-rifle
 7. **Uso de Veículo Blindado (Caveirão)**: O caveirão só poderá sair de dentro da comunidade para dar QTA. Caso saia do perímetro, não poderá retornar para a ação.
 8. **Contingente**: A Polícia poderá ter um contingente superior ao da facção invadida de **no máximo 10 Oficiais de diferença**.
 9. **Regras de Snipers**:
-   * A Polícia poderá utilizar **APENAS 1 sniper** por pacificação (posicionado dentro do perímetro ou no helicóptero; no caso de QG, dentro do quarteirão).
-   * A facção invadida **NÃO poderá utilizar sniper** durante a pacificação.
+   - A Polícia poderá utilizar **APENAS 1 sniper** por pacificação (posicionado dentro do perímetro ou no helicóptero; no caso de QG, dentro do quarteirão).
+   - A facção invadida **NÃO poderá utilizar sniper** durante a pacificação.
 10. **Abertura de Portas**: Quando a facção for sofrer a pacificação, **DEVERÁ obrigatoriamente deixar todas as portas e trancas ABERTAS**.
 11. **Proibição de Aliados na Defesa**: A facção invadida NÃO poderá contar com alianças ou grupos aliados para a defesa durante a pacificação.

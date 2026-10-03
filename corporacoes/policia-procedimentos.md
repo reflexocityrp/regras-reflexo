@@ -18,6 +18,6 @@ Ao efetuar a prisão de qualquer suspeito, os oficiais da Polícia da **Reflexo 
 
 ---
 
-## 3. Diretrizes Operacionais
+## 3. Diretrizes de Abordagem e Revista
 - **Proibição de Revista sem Suspeita**: É proibido revistar cidadãos sem fundada suspeita (infrações visíveis, denúncias específicas ou flagrante delito).
-- **Código Penal**: Respeitar integralmente a dosimetria de penas e multas aprovadas pela legislação da cidade.
+- **Invasão de DPs**: Proibido invadir delegacias ou realizar tocaias nas saídas de viaturas.

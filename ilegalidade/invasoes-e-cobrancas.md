@@ -1,34 +1,27 @@
----
-icon: house
----
-
 # Invasões de Favelas, Cobranças e Resgate de Veículos
 
-***
+---
 
-## 1. Invasões para Cobrança em Comunidades
+## 1. Invasões de Favela para Cobrança
+- **Comprovação Obrigatória por Vídeo**: É obrigatório possuir clipe sem cortes comprovando o motivo relevante da cobrança no RP.
+- **Contingente Mínimo**: A ação de cobrança deve ser executada por no mínimo **4 integrantes** da organização.
 
-* **Comprovação Obrigatória**: É obrigatório possuir um clipe gravado sem edições que comprove o motivo justificável da cobrança no RP.
-* **Contingente Mínimo**: A ação de cobrança deve ser realizada com, no mínimo, **4 integrantes** da organização envolvida.
-
-***
+---
 
 ## 2. Invasões para Resgate de Veículo
+- **Clipe de Localização**: É obrigatório apresentar um clipe com a última localização do veículo dentro da comunidade.
+- **Contingente Mínimo**: Mínimo de **4 pessoas** para iniciar o resgate.
 
-* **Comprovação de Localização**: É necessário apresentar um clipe comprovando a última localização do veículo dentro do território da comunidade.
-* **Contingente Mínimo**: A ação de resgate de veículo requer pelo menos **4 integrantes** para ser executada.
-
-***
+---
 
 ## 3. Entradas Permitidas na Favela (P1 e P2)
+- É **proibido invadir por qualquer outro local que não seja a P1 ou P2 da favela** (independente do motivo).
+- A invasão por laterais, morros ou rios resultará em sanções administrativas, anulação da ação e punição à facção.
 
-* **Rotas de Acesso**: É estritamente **proibido invadir a comunidade por qualquer local que não seja a P1 ou P2 da favela**, independente do motivo (seja cobrança ou resgate de veículo).
-* **Sanções**: O desrespeito a essa diretriz resultará em sanções administrativas severas, incluindo anulação da ação, punições à facção ou aos indivíduos envolvidos.
-
-***
+---
 
 ## 4. Invasão de Departamento Policial (DP)
 
 {% hint style="danger" %}
-É **estritamente proibido invadir Departamentos de Polícia (DPs)**, assim como é proibido ficar "camperando" ou realizando tocaias nas proximidades da delegacia.
+É **proibido invadir DPs**, assim como é proibido ficar realizando tocaias ou "camperando" nas proximidades da delegacia.
 {% endhint %}
