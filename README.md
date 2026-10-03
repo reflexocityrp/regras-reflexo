@@ -1,4 +1,10 @@
-# 📜 Livro de Regras Oficial - Reflexo RP
+---
+icon: book-open
+---
+
+# Livro de Regras
+
+<figure><img src=".gitbook/assets/Banner Regras.png" alt=""><figcaption></figcaption></figure>
 
 Nós, como comunidade da **Reflexo RP**, temos orgulho de sermos uma cidade diversa, acolhedora e inclusiva, onde cada indivíduo é valorizado e respeitado por sua singularidade. Queremos reforçar os valores fundamentais que guiam nosso servidor e que tornam este lugar tão especial para todos nós.
 
@@ -20,5 +26,5 @@ A liberdade de expressão e a igualdade de direitos são pilares do nosso servid
 **Aviso de Burlagem e Brechas**: O desconhecimento destas regras nunca será aceito como justificativa para infrações. Interpretações mal-intencionadas criadas para burlar o espírito do Roleplay serão punidas severamente pela Staff.
 {% endhint %}
 
-Atenciosamente,  
+Atenciosamente,\
 **Diretoria, Reflexo RP.**

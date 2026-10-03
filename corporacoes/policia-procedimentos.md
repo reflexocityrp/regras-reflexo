@@ -1,14 +1,18 @@
+---
+icon: car-side
+---
+
 # Polícia e Procedimentos Operacionais
 
----
+***
 
 ## 1. Direitos de Miranda (Obrigatório)
 
 Ao efetuar a prisão de qualquer suspeito, os oficiais da Polícia da **Reflexo RP** devem obrigatoriamente realizar a leitura dos Direitos de Miranda:
 
-> *"Você tem o direito de permanecer em silêncio. Tudo o que disser pode e será usado contra você no tribunal. Você tem direito a um advogado e a uma ligação de até 3 minutos no departamento policial."*
+> _"Você tem o direito de permanecer em silêncio. Tudo o que disser pode e será usado contra você no tribunal. Você tem direito a um advogado e a uma ligação de até 3 minutos no departamento policial."_
 
----
+***
 
 ## 2. Uso Progressivo da Força
 
@@ -16,8 +20,9 @@ Ao efetuar a prisão de qualquer suspeito, os oficiais da Polícia da **Reflexo 
 2. **Nível 2 - Força Menos Letal (Taser/Cassetete)**: Em caso de desobediência ativa ou fuga a pé sem armas de fogo.
 3. **Nível 3 - Força Letal**: Autorizado **apenas** diante de ameaça iminente à vida de oficiais de polícia ou cidadãos inocentes com arma de fogo.
 
----
+***
 
 ## 3. Diretrizes de Abordagem e Revista
-- **Proibição de Revista sem Suspeita**: É proibido revistar cidadãos sem fundada suspeita (infrações visíveis, denúncias específicas ou flagrante delito).
-- **Invasão de DPs**: Proibido invadir delegacias ou realizar tocaias nas saídas de viaturas.
+
+* **Proibição de Revista sem Suspeita**: É proibido revistar cidadãos sem fundada suspeita (infrações visíveis, denúncias específicas ou flagrante delito).
+* **Invasão de DPs**: Proibido invadir delegacias ou realizar tocaias nas saídas de viaturas.

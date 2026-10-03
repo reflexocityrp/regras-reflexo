@@ -1,8 +1,12 @@
+---
+icon: box-open
+---
+
 # Eventos de Airdrop, HeliCrash e Caixas de Suprimentos
 
 Eventos dinâmicos de queda de caixas de suprimentos (**Airdrop**) e quedas de helicópteros de carga (**HeliCrash**) representam áreas de alta disputa econômica na **Reflexo RP**.
 
----
+***
 
 ## 1. Regras de Perímetro e Tiro Liberado
 
@@ -10,7 +14,7 @@ Eventos dinâmicos de queda de caixas de suprimentos (**Airdrop**) e quedas de h
 **Red Zone Temporária e Tiro Liberado**: A área ao redor do Airdrop / HeliCrash torna-se uma **Zona de Conflito Aberto**. Dentro da área delimitada do evento, **o tiro é liberado de forma imediata**, não sendo necessária negociação, diálogo prévio ou voz de rendição antes de disparar contra oponentes armados.
 {% endhint %}
 
----
+***
 
 ## 2. Regulamento Operacional de Airdrop / HeliCrash
 
