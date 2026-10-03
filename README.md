@@ -1,4 +1,8 @@
-# Livro de Regras - Reflexo RP
+---
+icon: book-open
+---
+
+# Livro de Regras
 
 Nós, como comunidade da **Reflexo RP**, temos orgulho de sermos uma cidade diversa, acolhedora e inclusiva, onde cada indivíduo é valorizado e respeitado por sua singularidade. Queremos reforçar os valores fundamentais que guiam nosso servidor e que tornam este lugar tão especial para todos nós.
 
@@ -18,5 +22,5 @@ A liberdade de expressão e a igualdade de direitos são pilares do nosso servid
 
 Contamos com a colaboração e o comprometimento de cada um de vocês para manter viva a essência acolhedora da **Reflexo RP**.
 
-Atenciosamente,  
+Atenciosamente,\
 **Diretoria, Reflexo RP.**

@@ -1,6 +1,10 @@
+---
+icon: user-group
+---
+
 # Assaltos, Sequestros e Reféns
 
----
+***
 
 ## Assalto a Trabalhadores Legais e Civis
 
@@ -8,7 +12,7 @@
 2. **Requisito Policial**: Mínimo de 3 Policiais em patrulha na cidade para realizar assaltos de rua.
 3. **Itens Protegidos**: Proibido roubar itens VIP/Doador, ferramentas de trabalho legal ou documentos pessoais (RG/CNH).
 
----
+***
 
 ## Sequestros e Reféns
 
@@ -17,7 +21,7 @@
 3. **Refém Falso Proibido**: É estritamente proibido utilizar reféns falsos (amigos, membros da mesma facção ou pessoas pagas para simular o sequestro).
 4. **Proteção a Paramédicos**: Proibido sequestrar paramédicos uniformizados ou em serviço.
 
----
+***
 
 ## Proibição de Resgate em Zonas Protegidas
 

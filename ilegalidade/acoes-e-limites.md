@@ -1,6 +1,10 @@
+---
+icon: bullseye-arrow
+---
+
 # Regras de Ações, Negociação e Limites Diários
 
----
+***
 
 ## Regulamento Geral de Ações Criminais
 
@@ -22,14 +26,14 @@
 16. **Proibição de GG Antecipado**: Em ações blipadas, é proibido dar "GG" antes da finalização completa da ação, válido para oficiais e criminosos.
 17. **Ações sem Negociação**: Em ações onde não houver negociação prévia, a polícia atuará em seu contingente máximo disponível.
 
----
+***
 
 ## Limites Diários de Ações por Facção
 
 As facções podem realizar **no máximo 2 ações por dia**, divididas nas seguintes categorias:
 
-- **1 Ação Grande / Média**: Banco Central, Nióbio, Galinheiro, Açougue, Banco Paleto, Joalheria ou Banco Fleeca.
-- **1 Ação Pequena**: Ammu-Nation (Armaria), Lojinha de Conveniência ou Yellow Jack.
+* **1 Ação Grande / Média**: Banco Central, Nióbio, Galinheiro, Açougue, Banco Paleto, Joalheria ou Banco Fleeca.
+* **1 Ação Pequena**: Ammu-Nation (Armaria), Lojinha de Conveniência ou Yellow Jack.
 
 {% hint style="info" %}
 **Ações Fechadas Não Blindadas (ex: Castelinho, Lifeinvader)**: Facções que realizarem ações fechadas desta categoria poderão fazer até **2 ações do mesmo tipo ao dia**. Caso façam uma destas ações, **NÃO poderão realizar 1 Ação Grande no mesmo dia**.
