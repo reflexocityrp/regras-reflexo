@@ -1,8 +1,9 @@
-# 💣 3 - Regras da Ilegalidade & Assaltos
+# Regras da Ilegalidade e Facções
 
-- [👤 3.1 - Assaltos a Civis & Trabalhadores](assaltos-civis.md)
-- [🔒 3.2 - Sequestros & Validação de Reféns](sequestros.md)
-- [🏪 3.3 - Lojas de Conveniência & Ammunation](lojas.md)
-- [🏦 3.4 - Banco Fleeca](banco-fleeca.md)
-- [🏛️ 3.5 - Banco Central & Paleto](banco-central.md)
-- [🌿 3.6 - Drogas, Lavagem & Portes de Armas](drogas-e-portes.md)
+Nesta seção estão consolidadas todas as diretrizes operacionais, invasões de favelas, cobranças, limites de ações diárias, alianças e regras de loot da **Reflexo RP**.
+
+- [Diretrizes Gerais da Ilegalidade](diretrizes.md)
+- [Assaltos, Sequestros e Reféns](assaltos-e-sequestros.md)
+- [Invasões de Favelas, Cobranças e Resgate de Veículos](invasoes-e-cobrancas.md)
+- [Regras de Ações, Negociação e Limites Diários](acoes-e-limites.md)
+- [Regras de GG e Loot](gg-e-loot.md)

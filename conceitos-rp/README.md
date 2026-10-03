@@ -1,18 +1,8 @@
-# 🧠 CONCEITOS DO ROLEPLAY
+# Conceitos Gerais do RP
 
-Entender a essência do Roleplay é indispensável para jogar na **Reflexo RP**. Abaixo você encontra todas as sub-seções detalhadas de conceitos, condutas e proibições.
+Nesta seção você encontrará as diretrizes fundamentais que regem a conduta de todos os cidadãos da **Reflexo RP**.
 
----
-
-## 📌 Sub-Páginas de Conceitos:
-
-- [🎭 1.1 - O que é Roleplay (IC vs OOC)](ic-vs-ooc.md)
-- [❤️ 1.2 - Amor à Vida](amor-a-vida.md)
-- [🛡️ 1.3 - Safe Zone (Zonas Seguras)](safe-zone.md)
-- [🚫 1.4 - Anti-RP & Atitudes Antijogo](anti-rp.md)
-- [🗡️ 1.5 - RDM (Random Deathmatch)](rdm.md)
-- [🚗 1.6 - VDM (Vehicle Deathmatch)](vdm.md)
-- [📱 1.7 - MetaGaming & Stream Sniping](metagaming.md)
-- [⚡ 1.8 - PowerGaming](powergaming.md)
-- [🔌 1.9 - Combat Logging (CL)](combat-logging.md)
-- [🛑 1.10 - Dark RP & Diretrizes Estritas](dark-rp.md)
+- [Regras Básicas e Conduta](regras-basicas.md)
+- [Amor à Vida e Rendição](amor-a-vida.md)
+- [Safe Zones e Mapeamento de Zonas](safe-zones.md)
+- [Infrações Gravíssimas (RDM, VDM, CL, Meta, Power)](infracoes-graves.md)

@@ -1,7 +1,8 @@
 # 🛡️ 1.3 - Safe Zone, Yellow Zone & Red Zone
 
-> [!IMPORTANT]
-> O mapa da **Cidade Reflexo** é dividido em categorias de zonas para garantir o equilíbrio entre segurança civil, fiscalização policial e áreas de confronto criminal.
+{% hint style="info" %}
+O mapa da **Cidade Reflexo** é dividido em categorias de zonas para garantir o equilíbrio entre segurança civil, fiscalização policial e áreas de confronto criminal.
+{% endhint %}
 
 ---
 
@@ -44,5 +45,6 @@ Locais de entretenimento e comércio aberto ao público (Restaurantes, Bares, Bo
 - Locais de Desmanche Clandestino de Veículos.
 - Pontos de Venda de Armamento Pesado.
 
-> [!CAUTION]
-> Ao adentrar uma **Red Zone**, o cidadão assume o risco iminente de abordagem armada, tiroteios entre facções rivais ou operações policiais de grande porte.
+{% hint style="danger" %}
+Ao adentrar uma **Red Zone**, o cidadão assume o risco iminente de abordagem armada, tiroteios entre facções rivais ou operações policiais de grande porte.
+{% endhint %}

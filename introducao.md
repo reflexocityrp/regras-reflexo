@@ -1,4 +1,4 @@
-# 📖 INTRODUÇÃO
+# Introdução
 
 Bem-vindo ao **Livro de Regras Oficial da Reflexo RP**!
 
@@ -6,12 +6,13 @@ Este espaço foi criado para centralizar todas as diretrizes, condutas e mecâni
 
 ---
 
-## 🎯 Nosso Propósito
+## Nosso Propósito
 
-A **Reflexo RP** foi desenvolvida focando no Roleplay de qualidade. Valorizamos a construção de histórias marcantes, a interação entre facções, corporações e cidadãos civis.
+A **Reflexo RP** foi desenvolvida focando no Roleplay de alta qualidade. Valorizamos a construção de histórias marcantes, a interação entre facções, corporações e cidadãos civis.
 
-> [!TIP]
-> **Antes de iniciar sua jornada na cidade**:
-> 1. Leia atentamente as regras de **Conceitos de Roleplay**.
-> 2. Mantenha seu programa de gravação (Medal, OBS, Geforce Experience) sempre aberto enquanto estiver jogando.
-> 3. Respeite todos os membros da comunidade e a equipe de Staff no Discord e In-Game.
+{% hint style="info" %}
+**Antes de iniciar sua jornada na cidade**:
+1. Leia atentamente as regras de **Conceitos do Roleplay**.
+2. Mantenha seu programa de gravação (Medal, OBS, Geforce Experience) sempre aberto enquanto estiver jogando.
+3. Respeite todos os membros da comunidade e a equipe de Staff no Discord e In-Game.
+{% endhint %}

@@ -1,4 +1,4 @@
-# 📄 TERMOS E CONDIÇÕES
+# Termos e Condições
 
 Assim como em outros jogos público-privados, a **Reflexo RP** possui Termos e Condições aceitos automaticamente ao ingressar no servidor. Ao conectar-se, o jogador assume a responsabilidade de estar ciente das regras e deste documento, que estabelece os parâmetros para a convivência e funcionamento da comunidade.
 
@@ -24,13 +24,13 @@ Assim como em outros jogos público-privados, a **Reflexo RP** possui Termos e C
 
 ---
 
-## 3 - Whitelist & Identidade
+## 3 - Whitelist e Identidade
 
 3.1 - Para jogar na Cidade Reflexo, o usuário deve ser aprovado no processo de Whitelist / Passaporte.
 
 3.2 - O compartilhamento de conta, passaporte ou transferência de cadastro entre terceiros é estritamente proibido.
 
-3.3 - O nome do personagem deve ser no formato `Nome Sobrenome` realista. Nomes ofensivos ou de celebridades serão alterados com punição.
+3.3 - O nome do personagem deve ser realista. Nomes ofensivos ou de celebridades serão alterados forçadamente com punição.
 
 ---
 
@@ -54,20 +54,10 @@ Assim como em outros jogos público-privados, a **Reflexo RP** possui Termos e C
 
 ---
 
-## 6 - Itens do Jogo
+## 6 - Itens do Jogo e Wipe
 
 6.1 - Veículos, propriedades e itens virtuais pertencem à infraestrutura da cidade.
 
 6.2 - Bugs de duplicação de itens ou dinheiro devem ser reportados imediatamente. O uso de exploits resultará em **banimento permanente**.
 
----
-
-## 7 - Wipe
-
-7.1 - A diretoria reserva-se o direito de realizar limpezas gerais de economia (Wipe) para garantir o equilíbrio e a longevidade do servidor, avisando a comunidade previamente.
-
----
-
-## 8 - Atualizações dos Termos e Condições
-
-8.1 - Este documento pode sofrer alterações a qualquer momento sem aviso prévio. Recomendamos a consulta frequente deste GitBook.
+6.3 - A diretoria reserva-se o direito de realizar limpezas gerais de economia (Wipe) avisando a comunidade previamente.

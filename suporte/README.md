@@ -1,4 +1,5 @@
-# 💬 5 - Suporte, Tickets & Denúncias
+# Suporte e Denúncias
 
-- [🎟️ 5.1 - Como Abrir Tickets](abrir-tickets.md)
-- [📹 5.2 - Requisitos de Provas em Vídeo](provas-video.md)
+Diretrizes para abertura de chamados, suporte no Discord e envio de gravações na **Reflexo RP**.
+
+- [Abertura de Tickets e Requisitos de Provas em Vídeo](tickets-e-provas.md)
